@@ -1,0 +1,4 @@
+classes:
+    - site::roles::puppet::master
+puppet::server::autosign: /etc/puppet/autosign.sh
+cert_password: mySuperSecretMotDePasse
